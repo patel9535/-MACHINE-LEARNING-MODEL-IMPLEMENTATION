@@ -87,3 +87,8 @@ This task successfully showcases how machine learning can be used to build pract
 
 Output
 
+<img width="1919" height="1009" alt="Image" src="https://github.com/user-attachments/assets/ffa3a085-e557-4f05-9acb-679f593bdff7" />
+
+<img width="1919" height="382" alt="Image" src="https://github.com/user-attachments/assets/2dbab0ea-56d3-412c-8f38-ad65d429f3aa" />
+
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/5ce981fd-862e-468b-aaec-e67eb0072868" />
